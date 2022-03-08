@@ -9,3 +9,13 @@ body {
 header {
   width: 100%;
 }
+
+/* validation */
+
+.true {
+  border: 2px solid #3ee9e5 !important;
+}
+
+.false {
+  border: 2px solid #ff2965 !important;
+}
